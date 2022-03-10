@@ -1,11 +1,16 @@
 _repo: Over-the-Wire_67496
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67496-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, Eugene
     gutenberg_agent_id: '54295'
     url: http://www.gutenberg.org/2009/agents/54295
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67496#Over-the-Wire
 gutenberg_issued: '2022-02-25'
 identifiers:
   gutenberg: '67496'
